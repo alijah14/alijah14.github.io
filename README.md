@@ -1,4 +1,5 @@
 Alijah E Sedigo 8-OL of grace
+<!DOCTYPE html>
 <html>
 <head>
 <title> king of the court! </title>
