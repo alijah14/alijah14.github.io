@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> king of the court! </title>
+<title> king of the court! </title>
 </head>
 <body> <h1> Volleyball </h1>
 <p> Volleyball is one of the best team sports where two teams of six players each aim to score points by hitting a ball over a net into the opposing team's court, following specific rules and striving to be kings of the court. </p>
